@@ -46490,15 +46490,17 @@ A.arW.prototype={
 $1(a){return new A.nD(null)},
 $S:135}
 A.arT.prototype={
-$1(a){var s,r,q,p,o=null
+$1(a){var s,r,q,p=null
 A.o("LoginScreenWeb.dart [ build/Observer ] vou montar o campo usu\xe1rio...")
-s=A.a2(B.ql,o,o)
-r=this.a.d
-q=r.$0().gKc()
-r=r.$0()
-p=r.hi$
-p.a.q(p)
-return A.a5W(r.r===B.bv&&!0,"Usu\xe1rio",o,q,s,o,B.OE)},
+s=this.a.d
+r=s.$0()
+q=r.hi$
+q.a.q(q)
+r=r.r
+A.o("LoginScreenWeb.dart [ build/Observer ] vou montar o campo usu\xe1rio e o status do login \xe9 "+r.i(0)+"...")
+q=A.a2(B.ql,p,p)
+s=s.$0().gKc()
+return A.a5W(r===B.bv&&!0,"Usu\xe1rio",p,s,q,p,B.OE)},
 $S:65}
 A.arU.prototype={
 $1(a){var s,r,q,p,o,n,m,l=null
