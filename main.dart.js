@@ -26430,7 +26430,8 @@ new A.nL("PonnamKarthik/fluttertoast",B.el,a).qU(p.gao9())
 $.aNy=a.gao1()
 s=2
 return A.ak(A.b37(),$async$aBl)
-case 2:a=$.eL()
+case 2:A.p("main.dart [ main ] estou aqui...")
+a=$.eL()
 a.qp(new A.uB(null,null,null,null,null,A.aP(null,"_LoginStore._loggedIn"),A.aP(null,"_LoginStore.email"),A.aP(null,"_LoginStore._currentUser"),A.aP(null,"_LoginStore.user"),A.aP(null,"_LoginStore.password"),A.aP(null,"_LoginStore.isPassVisible"),A.aP(null,"_LoginStore._status"),A.n7(null,"_LoginStore"),A.ams(),B.bv),t.M1)
 q=t.u6
 a.qp(new A.yf(null,null,null,null,null,null,null,A.aP(null,"_AccountUserStore._userAccountModel"),A.aP(null,"_AccountUserStore._userAccountCurrentBalance"),A.aP(null,"_AccountUserStore._currentUserAccount"),A.aP(null,"_AccountUserStore._currentUserAccountDestination"),A.aP(null,"_AccountUserStore._selectedUserAccountId"),A.aP(null,"_AccountUserStore._selectedUserAccountIdIndex"),A.aP(null,"_AccountUserStore._accountsLoaded"),A.aP(null,"_AccountUserStore._status"),A.aP(null,"_AccountUserStore._definedAccountIndex"),A.aP(null,"_AccountUserStore._listUserAccount"),A.aP(null,"_AccountUserStore._listAccountsTransfer"),A.n7(null,"_AccountUserStore"),a,new A.amt(),A.h5(null,null,null,null,null,null,null,null,null,null,null,null),A.h5(null,null,null,null,null,null,null,null,null,null,null,null),A.h5(null,null,null,null,null,null,null,null,null,null,null,null),B.bv,A.m1(q),A.m1(q)),t.J)
@@ -45962,7 +45963,10 @@ A.anr.prototype={
 $0(){this.b.k4.sbN(0,this.a.c+" ")},
 $S:0}
 A.Ps.prototype={
-E(a,b){var s=A.aF(b).W,r=new A.eD(A.iM(s.a),A.iM(s.b),A.iM(s.c),A.iM(s.d),A.iM(s.e),A.iM(s.f),A.iM(s.r),A.iM(s.x),A.iM(s.y),A.iM(s.z),A.iM(s.Q),A.iM(s.ch),A.iM(s.cx)).aka(B.x)
+E(a,b){var s,r
+A.p("main.dart [ build ] estou aqui...")
+s=A.aF(b).W
+r=new A.eD(A.iM(s.a),A.iM(s.b),A.iM(s.c),A.iM(s.d),A.iM(s.e),A.iM(s.f),A.iM(s.r),A.iM(s.x),A.iM(s.y),A.iM(s.z),A.iM(s.Q),A.iM(s.ch),A.iM(s.cx)).aka(B.x)
 return new A.B4(new A.AW(null),"WFinan\xe7as",A.aKB(null,new A.BS(A.a8([B.bB,new A.tU(),B.bS,new A.tU()],t.LH,t.ng)),B.x,B.ah8,B.a6,r,A.aKT()),B.x,A.a([B.RR,B.RX,B.pa],t.a9),A.a([new A.kE("en",""),new A.kE("pt","BR")],t.ss),!1,null)}}
 A.afk.prototype={
 i(a){return"ProcessResult: Conclu\xeddo: "+A.c(this.a)+" | Transa\xe7\xe3o: null | Status: "+A.c(this.c)+" | Msg: "+A.c(this.d)+" |"}}
